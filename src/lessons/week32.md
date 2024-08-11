@@ -17,4 +17,4 @@
 16. &str - Reference to a string field; non-owing pointer
 17. Option<&str> - Optional value; type specified or None
 18. Result<u64, Error> Result of an operation can have only two types
-19. fn(&str) -> - Pointer to a function
+19. fn(&str) -> bool - Pointer to a function
